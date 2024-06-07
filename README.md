@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Edward hanson
-- 👀 I’m interested in Python Backend development 
-- 🌱 I’m currently learnin Django
-- 💞️ I’m looking to collaborate on a Booking App System
-- 📫 How to reach me hans18edward@gmail.com
+- 👀 I’m interested in Python Backend development and machine learning
+- 🌱 I’m currently learning Django
+- 💞️ I’m ]open to collaborating on any project
+- 📫 send me an email: hans18edward@gmail.com
 - 😄 Pronouns: He/Him
+- Interests: Python Backend Development, Machine Learning
 - ⚡ Fun fact: 
-Modern airplanes are incredibly reliant on code!  While pilots are still very much in control, critical flight systems, navigation, and even engine controls are all managed by complex software. In fact, pilots actually use special codes, called squawk codes, to communicate with air traffic control. These codes are four-digit numbers that identify the aircraft and can be used to transmit information about the flight's intentions or even emergencies.  So, next time you fly,  think about all the code silently working behind the scenes to keep you soaring through the sky!
-
+Modern airplanes are marvels of engineering, and a big part of that marvel is their reliance on sophisticated software! These high-tech systems manage everything from critical flight controls and navigation to engine performance, ensuring a smooth and safe journey. Pilots also use special four-digit codes, known as squawk codes, to communicate important information with air traffic control. These codes can indicate the flight's intentions or even signal emergencies. So, next time you’re soaring through the skies, remember the invisible, intricate code that's hard at work behind the scenes, making your flight possible and safe! ✈️✨
 <!---
 Eddie-hanson/Eddie-hanson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
