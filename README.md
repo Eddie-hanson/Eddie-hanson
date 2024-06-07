@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Edward hanson
+- 👋 Hi, I’m Edward Koffi hanson
 - 👀 I’m interested in Python Backend development and machine learning
 - 🌱 I’m currently learning Django
 - 💞️ I’m ]open to collaborating on any project
