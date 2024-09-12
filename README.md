@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Edward Koffi hanson
 - 👀 I’m interested in Python Backend development and machine learning
 - 🌱 I’m currently learning Django
-- 💞️ I’m ]open to collaborating on any project
+- 💞️ I’m open to collaborating on any project
 - 📫 send me an email: hans18edward@gmail.com
 - 😄 Pronouns: He/Him
 - Interests: Python Backend Development, Machine Learning
