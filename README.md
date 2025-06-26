@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Django Auth<br>👯 I’m looking to collaborate on Open source projects <br>🌱 I’m currently learning: Data Structures and Algorithms (DSA)<br>💬 Ask me about: Web development, backend engineering, and APIs<br>⚡ Fun fact: There is a programming language called INTERCAL which has keywords like IGNORE, PLEASE, FORGET. If you don’t use PLEASE enough times while coding, compiler rejects the code.<br>
+🔭 I’m currently working on NTOHING 🤣<br>👯 I’m looking to collaborate on Open source projects <br>🌱 I’m currently learning: Data Structures and Algorithms (DSA) and C##<br>💬 Ask me about: Web development, backend engineering, and APIs<br>⚡ Fun fact: There is a programming language called INTERCAL which has keywords like IGNORE, PLEASE, FORGET. If you don’t use PLEASE enough times while coding, compiler rejects the code.<br>
 
 
 ## 🌐 Socials:
